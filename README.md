@@ -12,7 +12,6 @@ Last update: Oct. 10th, 2017
                   Ramos, J. S. andSouza,  
 									J. A. and Rodrigues-Jr,  
 									J. F. and Traina, A. J. M.},  
-                  
     title     = {FiSmo: A Compilation of Datasets from Emergency Situations for Fire and Smoke Analysis},  
     booktitle = {SBBD2017 - DSW (Dataset Showcase Workshop)},  
     publisher = {SBC},  
