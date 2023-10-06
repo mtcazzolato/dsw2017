@@ -4,15 +4,11 @@ FiSmo - Fire and Smoke Images and Videos
   
 **Dataset available at:**
   
-- *Part 1:* [download](https://drive.google.com/file/d/1QH5SvCSe9Rq4VnNQDh9VexQu6rCOp6fD/view?usp=sharing) ([alternative link](https://drive.google.com/file/d/1VFnfSyiP4fn3sc8_n2DUAvT8A541V2Fm/view?usp=sharing))
+- Parts: [download p1](https://drive.google.com/file/d/1QH5SvCSe9Rq4VnNQDh9VexQu6rCOp6fD/view?usp=sharing), [download p2](https://drive.google.com/file/d/1YJ4P6EGXN4zvXd96YKlPOJTryK4M4tBj/view?usp=sharing), [download p3](https://drive.google.com/file/d/12BiODR8OArbd5nunpBWzz8eT4WxFIQqv/view?usp=sharing)
 
-  
-- *Part 2:* [download](https://drive.google.com/file/d/1YJ4P6EGXN4zvXd96YKlPOJTryK4M4tBj/view?usp=sharing)  ([alternative link](https://drive.google.com/file/d/1cF630LJaGZSR7HZRYGy5f2P0KzPyv6At/view?usp=sharing))
-  
+- Alternative links: ([alternative link p1](https://drive.google.com/file/d/1JDVx5xPPm6FZ4uPR6UFZ16Lv5HQewlFf/view?usp=sharing)), ([alternative link p2](https://drive.google.com/file/d/1VFnfSyiP4fn3sc8_n2DUAvT8A541V2Fm/view?usp=sharing)), ([alternative link p3](https://drive.google.com/file/d/1cF630LJaGZSR7HZRYGy5f2P0KzPyv6At/view?usp=sharing))
 
-- *Part 3:* [download](https://drive.google.com/file/d/12BiODR8OArbd5nunpBWzz8eT4WxFIQqv/view?usp=sharing) ([alternative link](https://drive.google.com/file/d/1JDVx5xPPm6FZ4uPR6UFZ16Lv5HQewlFf/view?usp=sharing))
-
-- Folder with all three parts: [download](https://drive.google.com/drive/folders/102iecq1s5DLXH4w69TElqMJdS2TBlSVk?usp=sharing)
+- Folder with all three parts: [download all parts](https://drive.google.com/drive/folders/102iecq1s5DLXH4w69TElqMJdS2TBlSVk?usp=sharing)
   
 Last update: ~~March 27th, 2019, September 20th, 2023,~~ October 5th, 2023
 
